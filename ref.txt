@@ -1,0 +1,40 @@
+[1]	Samsung, “Mobile Processor Exynos 9820”, retrieved from official site https://www.samsung.com/semiconductor/minisite/exynos/products/mobileprocessor/exynos-9-series-9820
+
+[2]	ARM,” ARM Cortex A55  Core processor ”  retreived from
+https://static.docs.arm.com/100442/0100/cortex_a55_trm_100442_0100_01_en.pdf 
+
+[3]	ARM,”Armv8-AArchitecture with A profile” 
+https://developer.arm.com/architectures/cpu-architecture/a-profile 
+
+[4]	Matt  Humrick “Exploring dynamIQ and ARM’s  new CPU’s A75 and A55”,2017.  retreived from 
+https://www.anandtech.com/show/11441/dynamiq-and-arms-new-cpus-cortex-a75-a55/3   
+
+[5]	   WikiChip, “Exynos M4 - Microarchitectures – Samsung” https://en.wikichip.org/wiki/samsung/microarchitectures/m4 
+
+[6]	WikiChip,,”ARMv8 – ARM” 
+https://en.wikichip.org/wiki/arm/armv8. 
+
+[7]	ARM, “Arm® Cortex®‑A75 Core Technical Reference Manual”, retrieved from
+http://infocenter.arm.com/help/topic/com.arm.doc.100403_0301_00_en/cortex_a75_trm_100403_0301_00_en.pdf
+
+[8]	Arm, “Arm® Cortex®-M4 Processor Technical Reference Manual”,retrieved from 
+http://infocenter.arm.com/help/topic/com.arm.doc.100166_0001_04_en/arm_cortexm4_processor_trm_100166_0001_04_en.pdf
+
+
+[9]	Arm, “Arm® Cortex®-A55 Processor Technical Reference Manual”,retrieved from 
+http://infocenter.arm.com/help/topic/com.arm.doc.100442_0100_00_en/cortex_a55_trm_100442_0100_00_en.pdf
+
+[10]	WikiChip,” Cortex-A75 - Microarchitectures – ARM”, retrieved from
+https://en.wikichip.org/wiki/arm_holdings/microarchitectures/cortex-a75. 
+
+
+[11]	WikiChip,”Cortex-A55 - Microarchitectures – ARM” , retrieved from
+https://en.wikichip.org/wiki/arm_holdings/microarchitectures/cortex-a55 
+
+[12]	Alexandre Adamski, Joffrey Guilbon &Maxime Peterlin, “A Deep Dive Into 
+Samsung's TrustZone (Part 1)” ,2019 retrieved from 
+https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-1.html
+
+[13]	ARM,"Arm® Cortex®‑A75 Core Technical Reference Manual",retreived from
+https://static.docs.arm.com/100403/0301/cortex_a75_trm_100403_0301_00_en.pdf
+
